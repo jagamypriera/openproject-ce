@@ -51,8 +51,8 @@ npm-debug.log*
 /app/assets/javascripts/bundles/*.*
 /app/assets/javascripts/locales/*.*
 /config/additional_environment.rb
-/config/configuration.yml
-/config/database.yml
+#/config/configuration.yml
+#/config/database.yml
 /config/email.yml
 /config/secret_token.yml
 /coverage
